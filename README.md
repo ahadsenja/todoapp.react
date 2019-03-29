@@ -3,8 +3,8 @@
 ### `Clone the project`
 https://github.com/ahadsenja/todoapp.react.git
 
-~ Enter to the project folder
-    `cd project-folder`
+~ Enter to the project folder `cd project-folder`
+~ And then run `npm install`
 
 In the project directory, you can run:
 
